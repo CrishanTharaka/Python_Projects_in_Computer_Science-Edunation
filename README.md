@@ -14,5 +14,5 @@ Input: radius = 10
 Output: 314.1592653589793  
 
 ## Purpose
-This project was created as part of my learning exercises in Python programming.
+This project was created as a part of my learning exercises in Python programming.
 
