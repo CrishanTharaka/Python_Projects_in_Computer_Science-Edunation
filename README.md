@@ -2,9 +2,9 @@
 My Python exercises for learning
 
 
-# Python Exercise – Area of Circle
+# Python Exercise – Area of a Circle
 
-This repository contains a simple Python program that calculates the **area of circle** given its radius.  
+This repository contains a simple Python program that calculates the **area of a circle** given its radius.  
 
 ## Files
 - `area_circle.py` → Python script for calculating circle area.
